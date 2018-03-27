@@ -48,7 +48,7 @@ Let's make sure everything is working properly.
 
 ```sh
 cd ember-quickstart
-ember serve
+ember server
 ```
 
 After a few seconds, you should see output that looks like this:
